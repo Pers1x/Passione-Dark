@@ -2,7 +2,7 @@
 
 # Passion Dark
 
-A clean dark theme family for **Zed** with neutral surfaces, pink-leaning strings, and OLED-friendly contrast.
+A clean dark theme family for **Zed** with neutral surfaces, brighter sage-green strings, and OLED-friendly contrast.
 
 <br>
 
@@ -71,7 +71,7 @@ A clean dark theme family for **Zed** with neutral surfaces, pink-leaning string
 
 - Two-theme family for Zed
 - Neutral app surfaces that match the editor tone
-- Pink string colors with shared syntax styling
+- Brighter sage-green string colors with shared syntax styling
 - Matching integrated terminal palettes
 - OLED-focused variant with true-black backgrounds
 - Designed for long coding sessions with comfortable contrast

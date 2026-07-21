@@ -1,0 +1,26 @@
+id = "passion-dark-theme"
+name = "Passion Dark"
+version = "1.1.2"
+schema_version = 1
+authors = ["Pers1x <220352147+Pers1x@users.noreply.github.com>"]
+description = "A matte dark theme family for Zed with neutral surfaces and shared syntax colors."
+repository = "https://github.com/Pers1x/Passione-dark"
+themes = [
+  "themes/passion-dark.json",
+  "themes/passion-oled.json",
+]
+icon_themes = []
+languages = []
+capabilities = []
+
+[lib]
+
+[grammars]
+
+[language_servers]
+
+[context_servers]
+
+[agent_servers]
+
+[slash_commands]

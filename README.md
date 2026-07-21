@@ -31,19 +31,19 @@ Pick your editor and download only the package it needs.
 <table>
   <tr>
     <td width="33%" align="center" valign="top">
-      <h3><img src="https://cdn.simpleicons.org/zedindustries/FFFFFF" alt="Zed" width="18" height="18" /> Zed</h3>
+      <h3><img src="https://cdn.simpleicons.org/zedindustries/FFFFFF" alt="Zed" width="18" height="18" style="vertical-align:middle; margin-right:6px;" /> Zed</h3>
       <p>Native Zed extension.</p>
       <p><a href="./dist/passione-zed-1.2.0.zip"><strong>Download</strong></a></p>
       <p><a href="./zed/README.md">Install guide</a></p>
     </td>
     <td width="33%" align="center" valign="top">
-      <h3><img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" alt="VS Code" width="18" height="18" /> VS Code</h3>
+      <h3><img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" alt="VS Code" width="18" height="18" style="vertical-align:middle; margin-right:6px;" /> VS Code</h3>
       <p>VS Code theme extension.</p>
       <p><a href="./dist/passione-vscode-1.2.0.vsix"><strong>Download</strong></a></p>
       <p><a href="./vscode/README.md">Install guide</a></p>
     </td>
     <td width="33%" align="center" valign="top">
-      <h3><img src="https://cdn.simpleicons.org/jetbrains/FFB347" alt="JetBrains" width="18" height="18" /> JetBrains</h3>
+      <h3><img src="https://cdn.simpleicons.org/jetbrains/FFB347" alt="JetBrains" width="18" height="18" style="vertical-align:middle; margin-right:6px;" /> JetBrains</h3>
       <p>JetBrains theme plugin.</p>
       <p><a href="./dist/passione-jetbrains-1.2.0.zip"><strong>Download</strong></a></p>
       <p><a href="./jetbrains/README.md">Install guide</a></p>

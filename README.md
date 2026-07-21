@@ -55,14 +55,13 @@ Pick your editor and download only the package it needs.
 
 ## Preview
 
-<table>
-  <tr>
-    <td width="25%"><img src="./screenshots/Passion-dark.png" alt="Passione Dark editor preview" width="100%"></td>
-    <td width="25%"><img src="./screenshots/Passion-dark-terminal.png" alt="Passione Dark terminal preview" width="100%"></td>
-    <td width="25%"><img src="./screenshots/passion-oled.png" alt="Passione OLED editor preview" width="100%"></td>
-    <td width="25%"><img src="./screenshots/passion-oled-terminal.png" alt="Passione OLED terminal preview" width="100%"></td>
-  </tr>
-</table>
+<p align="center"><img src="./screenshots/Passion-dark.png" alt="Passione Dark editor preview" width="100%"></p>
+
+<p align="center"><img src="./screenshots/Passion-dark-terminal.png" alt="Passione Dark terminal preview" width="100%"></p>
+
+<p align="center"><img src="./screenshots/passion-oled.png" alt="Passione OLED editor preview" width="100%"></p>
+
+<p align="center"><img src="./screenshots/passion-oled-terminal.png" alt="Passione OLED terminal preview" width="100%"></p>
 
 ---
 

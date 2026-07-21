@@ -1,0 +1,47 @@
+{
+  "name": "Passione OLED",
+  "dark": true,
+  "author": "Pers1x",
+  "editorScheme": "/colors/passione-oled.xml",
+  "colors": {
+    "surface": "#030303",
+    "elevatedSurface": "#050505",
+    "editor": "#000000",
+    "foreground": "#d4d4d4",
+    "muted": "#8a8a8a",
+    "border": "#61616166",
+    "selection": "#ffffff1a",
+    "accent": "#f6c177",
+    "string": "#B7D67A"
+  },
+  "ui": {
+    "*": {
+      "background": "surface",
+      "foreground": "foreground",
+      "selectionBackground": "selection",
+      "selectionForeground": "foreground"
+    },
+    "Panel.background": "surface",
+    "ToolWindow.background": "surface",
+    "Tree.background": "surface",
+    "List.background": "surface",
+    "Table.background": "surface",
+    "EditorPane.background": "editor",
+    "TextField.background": "elevatedSurface",
+    "TextField.foreground": "foreground",
+    "Button.background": "accent",
+    "Button.foreground": "#000000",
+    "Label.foreground": "foreground",
+    "Separator.foreground": "border",
+    "ScrollBar.thumbColor": "#7f7f7f55",
+    "ScrollBar.hoverThumbColor": "#90909099",
+    "EditorTabs.background": "surface",
+    "EditorTabs.underlinedTabBackground": "selection",
+    "EditorTabs.underlineColor": "accent",
+    "EditorTabs.selectedForeground": "foreground",
+    "EditorTabs.inactiveForeground": "muted",
+    "ToolWindow.Header.background": "surface",
+    "StatusBar.background": "elevatedSurface",
+    "StatusBar.foreground": "foreground"
+  }
+}

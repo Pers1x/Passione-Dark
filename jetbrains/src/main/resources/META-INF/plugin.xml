@@ -1,0 +1,17 @@
+<idea-plugin>
+  <id>com.pers1x.passione.theme</id>
+  <name>Passion Theme</name>
+  <version>1.2.0</version>
+  <vendor email="220352147+Pers1x@users.noreply.github.com" url="https://github.com/Pers1x/Passione-Dark">Pers1x</vendor>
+
+  <description><![CDATA[
+    Dark JetBrains theme family with neutral surfaces, bright green strings, and soft pink accents.
+  ]]></description>
+
+  <depends>com.intellij.modules.platform</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <themeProvider id="com.pers1x.passione.dark" path="/themes/passione-dark.theme.json"/>
+    <themeProvider id="com.pers1x.passione.oled" path="/themes/passione-oled.theme.json"/>
+  </extensions>
+</idea-plugin>

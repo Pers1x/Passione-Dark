@@ -1,0 +1,44 @@
+{
+  "name": "passion-theme",
+  "displayName": "Passion Theme",
+  "description": "A dark VS Code theme family with neutral surfaces, bright green strings, and soft pink accents.",
+  "version": "1.2.0",
+  "publisher": "pers1x",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "oled",
+    "green strings",
+    "passion"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Pers1x/Passione-Dark.git",
+    "directory": "vscode"
+  },
+  "bugs": {
+    "url": "https://github.com/Pers1x/Passione-Dark/issues"
+  },
+  "homepage": "https://github.com/Pers1x/Passione-Dark#readme",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Passione Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/passione-dark-color-theme.json"
+      },
+      {
+        "label": "Passione OLED",
+        "uiTheme": "vs-dark",
+        "path": "./themes/passione-oled-color-theme.json"
+      }
+    ]
+  }
+}

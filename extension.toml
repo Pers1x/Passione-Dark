@@ -1,10 +1,10 @@
 id = "passion-dark-theme"
 name = "Passion Dark"
-version = "1.1.2"
+version = "1.2.0"
 schema_version = 1
 authors = ["Pers1x <220352147+Pers1x@users.noreply.github.com>"]
 description = "A matte dark theme family for Zed with neutral surfaces and shared syntax colors."
-repository = "https://github.com/Pers1x/Passione-dark"
+repository = "https://github.com/Pers1x/Passione-Dark"
 themes = [
   "themes/passion-dark.json",
   "themes/passion-oled.json",

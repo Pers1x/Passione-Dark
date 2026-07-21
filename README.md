@@ -28,25 +28,37 @@
 
 Pick your editor and download only the package it needs.
 
-<table>
+<table width="100%" bgcolor="#1f1f1f" cellpadding="18" cellspacing="0" style="border:1px solid #80808059; border-radius:8px;">
   <tr>
-    <td width="33%" align="center" valign="top">
-      <h3><img src="https://cdn.simpleicons.org/zedindustries/FFFFFF" alt="Zed" width="18" height="18" style="vertical-align:middle; margin-right:6px;" /> Zed</h3>
-      <p>Native Zed extension.</p>
-      <p><a href="./dist/passione-zed-1.2.0.zip"><strong>Download</strong></a></p>
-      <p><a href="./zed/README.md">Install guide</a></p>
+    <td width="33%" valign="top" align="center">
+      <div>
+        <div style="font-size:18px; font-weight:700; margin-bottom:8px;">
+          <img src="https://cdn.simpleicons.org/zedindustries/FFFFFF" alt="Zed" width="18" height="18" style="vertical-align:middle; margin-right:6px;" /> Zed
+        </div>
+        <div>Native Zed extension.</div>
+        <div style="margin-top:10px;"><a href="./dist/passione-zed-1.2.0.zip"><strong>Download</strong></a></div>
+        <div style="margin-top:6px;"><a href="./zed/README.md">Install guide</a></div>
+      </div>
     </td>
-    <td width="33%" align="center" valign="top">
-      <h3><img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" alt="VS Code" width="18" height="18" style="vertical-align:middle; margin-right:6px;" /> VS Code</h3>
-      <p>VS Code theme extension.</p>
-      <p><a href="./dist/passione-vscode-1.2.0.vsix"><strong>Download</strong></a></p>
-      <p><a href="./vscode/README.md">Install guide</a></p>
+    <td width="33%" valign="top" align="center">
+      <div>
+        <div style="font-size:18px; font-weight:700; margin-bottom:8px;">
+          <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" alt="VS Code" width="18" height="18" style="vertical-align:middle; margin-right:6px;" /> VS Code
+        </div>
+        <div>VS Code theme extension.</div>
+        <div style="margin-top:10px;"><a href="./dist/passione-vscode-1.2.0.vsix"><strong>Download</strong></a></div>
+        <div style="margin-top:6px;"><a href="./vscode/README.md">Install guide</a></div>
+      </div>
     </td>
-    <td width="33%" align="center" valign="top">
-      <h3><img src="https://cdn.simpleicons.org/jetbrains/FFB347" alt="JetBrains" width="18" height="18" style="vertical-align:middle; margin-right:6px;" /> JetBrains</h3>
-      <p>JetBrains theme plugin.</p>
-      <p><a href="./dist/passione-jetbrains-1.2.0.zip"><strong>Download</strong></a></p>
-      <p><a href="./jetbrains/README.md">Install guide</a></p>
+    <td width="33%" valign="top" align="center">
+      <div>
+        <div style="font-size:18px; font-weight:700; margin-bottom:8px;">
+          <img src="https://cdn.simpleicons.org/jetbrains/FFB347" alt="JetBrains" width="18" height="18" style="vertical-align:middle; margin-right:6px;" /> JetBrains
+        </div>
+        <div>JetBrains theme plugin.</div>
+        <div style="margin-top:10px;"><a href="./dist/passione-jetbrains-1.2.0.zip"><strong>Download</strong></a></div>
+        <div style="margin-top:6px;"><a href="./jetbrains/README.md">Install guide</a></div>
+      </div>
     </td>
   </tr>
 </table>
@@ -55,12 +67,16 @@ Pick your editor and download only the package it needs.
 
 ## Preview
 
+<p><strong>Editor</strong></p>
 <p align="center"><img src="./screenshots/Passion-dark.png" alt="Passione Dark editor preview" width="100%"></p>
 
+<p><strong>Terminal</strong></p>
 <p align="center"><img src="./screenshots/Passion-dark-terminal.png" alt="Passione Dark terminal preview" width="100%"></p>
 
+<p><strong>Editor</strong></p>
 <p align="center"><img src="./screenshots/passion-oled.png" alt="Passione OLED editor preview" width="100%"></p>
 
+<p><strong>Terminal</strong></p>
 <p align="center"><img src="./screenshots/passion-oled-terminal.png" alt="Passione OLED terminal preview" width="100%"></p>
 
 ---
@@ -71,9 +87,9 @@ Each editor has its own package and install flow.
 
 | Editor | Package | Install |
 | --- | --- | --- |
-| Zed | `passione-zed-1.2.0.zip` | Extract the zip, open Zed, run `zed: install dev extension`, then select the extracted folder. |
-| VS Code | `passione-vscode-1.2.0.vsix` | Open VS Code, run `Extensions: Install from VSIX...`, and choose the `.vsix`. |
-| JetBrains | `passione-jetbrains-1.2.0.zip` | Open your JetBrains IDE, go to `Settings` -> `Plugins` -> gear menu -> `Install Plugin from Disk...`, then pick the zip. |
+| <img src="https://cdn.simpleicons.org/zedindustries/FFFFFF" alt="Zed" width="16" height="16" style="vertical-align:middle; margin-right:6px;" /> Zed | `passione-zed-1.2.0.zip` | Extract the zip, open Zed, run `zed: install dev extension`, then select the extracted folder. |
+| <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" alt="VS Code" width="16" height="16" style="vertical-align:middle; margin-right:6px;" /> VS Code | `passione-vscode-1.2.0.vsix` | Open VS Code, run `Extensions: Install from VSIX...`, and choose the `.vsix`. |
+| <img src="https://cdn.simpleicons.org/jetbrains/FFB347" alt="JetBrains" width="16" height="16" style="vertical-align:middle; margin-right:6px;" /> JetBrains | `passione-jetbrains-1.2.0.zip` | Open your JetBrains IDE, go to `Settings` -> `Plugins` -> gear menu -> `Install Plugin from Disk...`, then pick the zip. |
 
 ---
 

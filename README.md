@@ -3,7 +3,7 @@
 # Passion
 
 <p>
-  Dark editor themes for Zed, VS Code, and JetBrains with bright green strings, neutral surfaces, and soft pink accents.
+  Dark themes for Zed, VS Code, and JetBrains with bright green strings, neutral surfaces, and a soft pink accent.
 </p>
 
 <p>
@@ -14,9 +14,10 @@
 </p>
 
 <p>
-  <a href="#download">Download</a> |
-  <a href="#preview">Preview</a> |
-  <a href="#install">Install</a>
+  <a href="#download">Download</a> •
+  <a href="#preview">Preview</a> •
+  <a href="#install">Install</a> •
+  <a href="#variants">Variants</a>
 </p>
 
 </div>
@@ -30,21 +31,21 @@ Pick your editor and download only the package it needs.
 <table>
   <tr>
     <td width="33%" align="center" valign="top">
-      <h3>Zed</h3>
-      <p>Native Zed theme extension.</p>
-      <p><a href="./dist/passione-zed-1.2.0.zip"><strong>Download Zed zip</strong></a></p>
+      <h3><img src="https://cdn.simpleicons.org/zedindustries/FFFFFF" alt="Zed" width="18" height="18" /> Zed</h3>
+      <p>Native Zed extension.</p>
+      <p><a href="./dist/passione-zed-1.2.0.zip"><strong>Download</strong></a></p>
       <p><a href="./zed/README.md">Install guide</a></p>
     </td>
     <td width="33%" align="center" valign="top">
-      <h3>VS Code</h3>
-      <p>VS Code theme extension package.</p>
-      <p><a href="./dist/passione-vscode-1.2.0.vsix"><strong>Download VSIX</strong></a></p>
+      <h3><img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" alt="VS Code" width="18" height="18" /> VS Code</h3>
+      <p>VS Code theme extension.</p>
+      <p><a href="./dist/passione-vscode-1.2.0.vsix"><strong>Download</strong></a></p>
       <p><a href="./vscode/README.md">Install guide</a></p>
     </td>
     <td width="33%" align="center" valign="top">
-      <h3>JetBrains</h3>
-      <p>JetBrains theme plugin package.</p>
-      <p><a href="./dist/passione-jetbrains-1.2.0.zip"><strong>Download plugin zip</strong></a></p>
+      <h3><img src="https://cdn.simpleicons.org/jetbrains/FFB347" alt="JetBrains" width="18" height="18" /> JetBrains</h3>
+      <p>JetBrains theme plugin.</p>
+      <p><a href="./dist/passione-jetbrains-1.2.0.zip"><strong>Download</strong></a></p>
       <p><a href="./jetbrains/README.md">Install guide</a></p>
     </td>
   </tr>
@@ -73,20 +74,38 @@ Pick your editor and download only the package it needs.
 
 ## Install
 
-Each editor needs its own package format.
+Each editor has its own package and install flow.
 
-| Editor | File | How to install |
+| Editor | Package | Install |
 | --- | --- | --- |
-| Zed | `passione-zed-1.2.0.zip` | Extract, then run `zed: install dev extension` and select the extracted folder. |
-| VS Code | `passione-vscode-1.2.0.vsix` | Run `Extensions: Install from VSIX...` and select the `.vsix`. |
-| JetBrains | `passione-jetbrains-1.2.0.zip` | Go to `Settings` -> `Plugins` -> gear menu -> `Install Plugin from Disk...`. |
+| Zed | `passione-zed-1.2.0.zip` | Extract the zip, open Zed, run `zed: install dev extension`, then select the extracted folder. |
+| VS Code | `passione-vscode-1.2.0.vsix` | Open VS Code, run `Extensions: Install from VSIX...`, and choose the `.vsix`. |
+| JetBrains | `passione-jetbrains-1.2.0.zip` | Open your JetBrains IDE, go to `Settings` -> `Plugins` -> gear menu -> `Install Plugin from Disk...`, then pick the zip. |
 
 ---
 
 ## Variants
 
-- `Passione Dark`: balanced dark surfaces for daily coding.
-- `Passione OLED`: true-black editor surfaces for OLED displays and low-light setups.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Passione Dark</h3>
+      <ul>
+        <li>Balanced dark surfaces</li>
+        <li>Bright green strings</li>
+        <li>Soft pink accents</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Passione OLED</h3>
+      <ul>
+        <li>True-black backgrounds</li>
+        <li>High-contrast UI edges</li>
+        <li>Same shared palette</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 

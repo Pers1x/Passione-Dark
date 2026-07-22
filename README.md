@@ -28,34 +28,34 @@
 
 Pick your editor and download only the package it needs.
 
-<table width="100%" bgcolor="#1f1f1f" cellpadding="18" cellspacing="0" style="border:1px solid #80808059; border-radius:8px;">
+<table width="100%" bgcolor="#222222" cellpadding="18" cellspacing="0" style="border:1px solid #80808059; border-radius:8px;">
   <tr>
     <td width="33%" valign="top" align="center">
       <div>
-        <div style="font-size:18px; font-weight:700; margin-bottom:8px;">
+        <div style="font-size:18px; font-weight:700; margin-bottom:8px; color:#d4d4d4;">
           <img src="https://cdn.simpleicons.org/zedindustries/FFFFFF" alt="Zed" width="18" height="18" style="vertical-align:middle; margin-right:6px;" /> Zed
         </div>
-        <div>Native Zed extension.</div>
+        <div style="color:#d4d4d4;">Native Zed extension.</div>
         <div style="margin-top:10px;"><a href="./dist/passione-zed-1.2.0.zip"><strong>Download</strong></a></div>
         <div style="margin-top:6px;"><a href="./zed/README.md">Install guide</a></div>
       </div>
     </td>
     <td width="33%" valign="top" align="center">
       <div>
-        <div style="font-size:18px; font-weight:700; margin-bottom:8px;">
+        <div style="font-size:18px; font-weight:700; margin-bottom:8px; color:#d4d4d4;">
           <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" alt="VS Code" width="18" height="18" style="vertical-align:middle; margin-right:6px;" /> VS Code
         </div>
-        <div>VS Code theme extension.</div>
+        <div style="color:#d4d4d4;">VS Code theme extension.</div>
         <div style="margin-top:10px;"><a href="./dist/passione-vscode-1.2.0.vsix"><strong>Download</strong></a></div>
         <div style="margin-top:6px;"><a href="./vscode/README.md">Install guide</a></div>
       </div>
     </td>
     <td width="33%" valign="top" align="center">
       <div>
-        <div style="font-size:18px; font-weight:700; margin-bottom:8px;">
+        <div style="font-size:18px; font-weight:700; margin-bottom:8px; color:#d4d4d4;">
           <img src="https://cdn.simpleicons.org/jetbrains/FFB347" alt="JetBrains" width="18" height="18" style="vertical-align:middle; margin-right:6px;" /> JetBrains
         </div>
-        <div>JetBrains theme plugin.</div>
+        <div style="color:#d4d4d4;">JetBrains theme plugin.</div>
         <div style="margin-top:10px;"><a href="./dist/passione-jetbrains-1.2.0.zip"><strong>Download</strong></a></div>
         <div style="margin-top:6px;"><a href="./jetbrains/README.md">Install guide</a></div>
       </div>
@@ -67,16 +67,16 @@ Pick your editor and download only the package it needs.
 
 ## Preview
 
-<p><strong>Editor</strong></p>
+<p style="margin-bottom:6px;"><strong>Editor</strong></p>
 <p align="center"><img src="./screenshots/Passion-dark.png" alt="Passione Dark editor preview" width="100%"></p>
 
-<p><strong>Terminal</strong></p>
+<p style="margin-bottom:6px;"><strong>Terminal</strong></p>
 <p align="center"><img src="./screenshots/Passion-dark-terminal.png" alt="Passione Dark terminal preview" width="100%"></p>
 
-<p><strong>Editor</strong></p>
+<p style="margin-bottom:6px;"><strong>Editor</strong></p>
 <p align="center"><img src="./screenshots/passion-oled.png" alt="Passione OLED editor preview" width="100%"></p>
 
-<p><strong>Terminal</strong></p>
+<p style="margin-bottom:6px;"><strong>Terminal</strong></p>
 <p align="center"><img src="./screenshots/passion-oled-terminal.png" alt="Passione OLED terminal preview" width="100%"></p>
 
 ---
